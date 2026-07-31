@@ -33,3 +33,4 @@ replay_pid*
 .vscode/
 
 influxdb_data/
+volume-data/
