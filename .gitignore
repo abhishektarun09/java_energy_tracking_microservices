@@ -31,3 +31,5 @@ replay_pid*
 
 ### VS Code ###
 .vscode/
+
+influxdb_data/
